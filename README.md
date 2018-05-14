@@ -8,3 +8,5 @@ Assignment [3]  (https://github.com/NoahWoerdman/assignments/blob/master/assignm
 Assignment [4]  (https://github.com/NoahWoerdman/assignments/blob/master/assignment4.ipynb)
 
 Graded Assignment [1] (https://github.com/NoahWoerdman/assignments/blob/master/Graded_assignment1.ipynb)
+
+Graded Assignment [2] (https://github.com/NoahWoerdman/assignments/blob/master/Graded_assignment_2.ipynb)
