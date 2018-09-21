@@ -16,3 +16,6 @@ Exam [Python] (https://github.com/NoahWoerdman/assignments/blob/master/exam_june
 Exam [R]     (https://github.com/NoahWoerdman/assignments/blob/master/Exam_student.ipynb)
 
 Exam September 21 [Python] (https://github.com/NoahWoerdman/assignments/blob/master/exam_Sep_21_2018.ipynb)
+
+Exam September 21 [R] (https://github.com/NoahWoerdman/assignments/blob/master/exam_2_student.ipynb)
+
