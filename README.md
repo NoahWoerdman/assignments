@@ -14,3 +14,5 @@ Graded Assignment [2] (https://github.com/NoahWoerdman/assignments/blob/master/G
 Exam [Python] (https://github.com/NoahWoerdman/assignments/blob/master/exam_june_7_2018.ipynb)
 
 Exam [R]     (https://github.com/NoahWoerdman/assignments/blob/master/Exam_student.ipynb)
+
+Exam September 21 [Python] (https://github.com/NoahWoerdman/assignments/blob/master/exam_Sep_21_2018.ipynb)
